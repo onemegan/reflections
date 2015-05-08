@@ -12,3 +12,6 @@ You can compare what's in staging area to last commit.
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to try out a new scenario, such as an easier version of a game. Or a different way to approach analysis.
 Branches help because you can work through glitches of your new approach, without changing the original way you did it.
+
+5. How do the diagrams help you visualize the branch structure?
+I understand how commits may be on different branches, and how the git log will show me a different log depending on branch. (I think)
