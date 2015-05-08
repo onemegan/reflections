@@ -5,3 +5,7 @@ It enables you to use git for version control.
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an in-between for the working directory, on my hard drive, and the git repository, on which version controls are kept.
 I'm actually not that sure why it's valuable. I guess because it gives you more flexibility about committing things separately.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+You can compare what's in staging area to last commit.
+
