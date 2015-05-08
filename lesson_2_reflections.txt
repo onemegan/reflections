@@ -9,3 +9,6 @@ I'm actually not that sure why it's valuable. I guess because it gives you more 
 3. How can you use the staging area to make sure you have one commit per logical change?
 You can compare what's in staging area to last commit.
 
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try out a new scenario, such as an easier version of a game. Or a different way to approach analysis.
+Branches help because you can work through glitches of your new approach, without changing the original way you did it.
