@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+Initialitizing a repository means you are including your files in the current folder into a git repository.
+It enables you to use git for version control.
+
