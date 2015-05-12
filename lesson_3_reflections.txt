@@ -16,3 +16,10 @@ Branches - creating a new part of a file/game/something. This is not a copy of e
 
 4. What is the benefit of having a copy of hte last known state of the remote stored locally?
 I can edit it without internet connection, and continue with my work. When I get back to a connection I can use git pull or git fetch/git merge to merge the changes.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+In word I collaborate with others by using 'Tracked changes', but I often wish there was a better version control option to see what changes were being made by each person, and a simple way to compare files. We end up with many many versions of files with people's initials. This is harder than git hub.
+
+It's easier using git and git hub to track changes made by each person, though that comment to Caroline telling her to correct a typo felt tedious. I understand the purpose. 
+
+Generally git/git hub seem to make version control and collaboration on files much more intuitive and much easier to correct errors.
