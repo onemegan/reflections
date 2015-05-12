@@ -21,3 +21,8 @@ Merging branches allows changes made on separate branched versions of a document
 The diagram represents branches to show that commits could be made simultaneously, but on separate branches.
 #Note - I have not successfully merged two different branches because I got a CONFLICT error, tried to run merge tools, but they didn't work.
 
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros of automatic - it saves time, it's probably right because it uses good logic that doesn't jump to conclusions if two versions change the same lines of code.
+Cons of automatic - it doesn't merge changes that you might think are obvious. OR it may make changes that are additions, but change the code fundamentally.
+Pros of manual - you do precisely what you want every time
+Cons of manual - it takes more time; you might be more prone to user error mistakes.
