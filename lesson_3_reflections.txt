@@ -23,3 +23,7 @@ In word I collaborate with others by using 'Tracked changes', but I often wish t
 It's easier using git and git hub to track changes made by each person, though that comment to Caroline telling her to correct a typo felt tedious. I understand the purpose. 
 
 Generally git/git hub seem to make version control and collaboration on files much more intuitive and much easier to correct errors.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I'm working with other people I would want to make changes in a separate branch, then use a pull request so they can review before accepting changes to the master copy. 
+If I'm working alone, it would save time to make changes directly in master, unless I'm working on a side feature that I want to keep separate.
