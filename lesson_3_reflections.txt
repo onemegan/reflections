@@ -5,3 +5,11 @@ For back-up of my work on cloud, rather than just my hard drive.
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because if it is a public repository on Git Hub, I may not want all the changes pulled to my remote repository on my hard drive.
 I can also check and make changes when it's appropriate.. I think.
+
+3. Describe the difference between forks, clones, and branches. When would you use one instead of the other?
+
+Forks - cloning another repository on Git Hub, onto GitHub. This is built in to GitHub, so we give credit to the original author, and don't have to clone to my computer, then push to a new repo on GitHub.
+
+Clones - cloning a repository on github onto my local repository on my computer. This is used so I can edit files, i.e. code that I can't effectively edit on GitHub, in the repository on my computer, then can push back to github.
+
+Branches - creating a new part of a file/game/something. This is not a copy of existing work or files, it is separating a line of editing of work so that you can work on two pieces of the same file, or two people can work on different aspects, then merge them together later.
