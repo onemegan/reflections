@@ -13,3 +13,6 @@ Forks - cloning another repository on Git Hub, onto GitHub. This is built in to 
 Clones - cloning a repository on github onto my local repository on my computer. This is used so I can edit files, i.e. code that I can't effectively edit on GitHub, in the repository on my computer, then can push back to github.
 
 Branches - creating a new part of a file/game/something. This is not a copy of existing work or files, it is separating a line of editing of work so that you can work on two pieces of the same file, or two people can work on different aspects, then merge them together later.
+
+4. What is the benefit of having a copy of hte last known state of the remote stored locally?
+I can edit it without internet connection, and continue with my work. When I get back to a connection I can use git pull or git fetch/git merge to merge the changes.
